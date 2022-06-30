@@ -8,4 +8,4 @@ These algorithms are:
 - SVM
 - Logistic Regression
 
-This code is the final assignment of [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python?specialization=ai-engineer) provided by IBM on coursera.
+This code is the final assignment of [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python?specialization=ai-engineer) provided by [IBM](https://www.ibm.com/eg-en) on [Coursera](https://www.coursera.org/).
