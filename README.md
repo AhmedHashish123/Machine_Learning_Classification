@@ -8,4 +8,4 @@ These algorithms are:
 - SVM
 - Logistic Regression
 
-This code is the final assignment of [Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/learn/introduction-to-deep-learning-with-keras?specialization=ai-engineer) provided by [IBM](https://www.ibm.com/eg-en) on [Coursera](https://www.coursera.org/).
+This code is the final assignment of [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python?specialization=ai-engineer) provided by [IBM](https://www.ibm.com/eg-en) on [Coursera](https://www.coursera.org/).
